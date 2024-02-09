@@ -10,12 +10,12 @@ function Competence() {
                     <div className="md:flex">
                         <div className="mb-16 md:flex-1 ">
                             <h4 className="uppercase font-black mb-8">personal skills</h4>
-                            <p className="text-sm md:text-[18px] leading-6 md:leading-8">Growth mindset</p>
+                            <p className="text-sm md:text-[18px] leading-6 md:leading-8">Growth Mindset</p>
                             <p className="text-sm md:text-[18px] leading-6 md:leading-8">Teamwork</p>
                             <p className="text-sm md:text-[18px] leading-6 md:leading-8">Responsibility</p>
                             <p className="text-sm md:text-[18px] leading-6 md:leading-8">Persistence</p>
                             <p className="text-sm md:text-[18px] leading-6 md:leading-8">Communication</p>
-                            <p className="text-sm md:text-[18px] leading-6 md:leading-8">Orientation to details</p>
+                            <p className="text-sm md:text-[18px] leading-6 md:leading-8">Orientation to Details</p>
                         </div>
                         <div className="md:flex-1">
                             <h4 className="uppercase font-black mb-8">Technical skills</h4>
