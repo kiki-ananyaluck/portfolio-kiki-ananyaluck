@@ -9,7 +9,7 @@ const ArrowToTop = () => {
 
     return (
         <div className="min-w-full">
-            <button className="btn lg:btn-lg fixed bottom-0 right-0" onClick={scrollToTop}>
+            <button className="btn lg:btn-lg fixed bottom-0 right-0 m-4" onClick={scrollToTop}>
                 <i className="fa-solid fa-arrow-up"></i>
             </button>
         </div>
