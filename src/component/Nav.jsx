@@ -8,9 +8,9 @@ function Nav() {
             </div>
             <div className="flex-none">
                 <ul className="flex flex-row first-line:text-base md:text-xl font-medium font-for-head">
-                    <li className="mr-3 md:mr-5 nav-link"><AnchorLink  href="#project">Project</AnchorLink></li>
-                    <li className="ml-3 md:ml-5 nav-link"><AnchorLink  href="#about-me">About Me</AnchorLink></li>
-                    <li className="ml-3 md:ml-5 nav-link"><AnchorLink  href="#contact">Contact</AnchorLink></li>
+                    <li className="ml-3 md:ml-5 nav-link"><AnchorLink href="#about-me">About Me</AnchorLink></li>
+                    <li className="mr-3 md:mr-5 nav-link"><AnchorLink href="#project">Project</AnchorLink></li>
+                    <li className="ml-3 md:ml-5 nav-link"><AnchorLink href="#contact">Contact</AnchorLink></li>
                 </ul>
             </div>
         </div>
