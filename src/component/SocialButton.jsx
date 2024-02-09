@@ -12,7 +12,7 @@ function SocialButton() {
             </a>
             <a href="https://www.linkedin.com/in/kiki-ananyaluck/" target="_blank" rel="noreferrer" className="flex items-center text-sm lg:text-[18px] pb-3">
                 <i className="fab fa-linkedin text-4xl mr-5"></i>
-                <p>linkedin.com/in/kiki-ananyaluc9</p>
+                <p>linkedin.com/in/kiki-ananyaluck</p>
             </a>
             <a href="https://github.com/kiki-ananyaluck" target="_blank" rel="noreferrer" className="flex items-center text-sm lg:text-[18px] pb-3">
                 <i className="fab fa-github-square text-4xl mr-5"></i>
