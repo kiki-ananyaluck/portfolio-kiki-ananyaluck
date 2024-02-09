@@ -1,5 +1,5 @@
 
-import SocialButton from "./socialButton";
+import SocialButton from "./SocialButton";
 
 function Footer() {
     const year = new Date().getFullYear();
