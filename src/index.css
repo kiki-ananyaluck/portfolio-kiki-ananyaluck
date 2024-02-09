@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.font-for-head {
+    font-family: 'Chivo', sans-serif;
+}
+
+*>* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+body {
+    background-color: #F5F5F5;
+}
+
+.but-style {
+    background-color: #F5F5F5;
+    color: #222222;
+    border-radius: 100em;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border: 1px solid #222222;
+    box-shadow: 0 0 0 0 #222222;
+}
+
+.but-style:hover {
+    transform: translateY(-4px) translateX(-2px);
+    box-shadow: 2px 5px 0 0 #222222;
+}
+
+.but-style:active {
+    transform: translateY(2px) translateX(1px);
+    box-shadow: 0 0 0 0 #222222;
+}
+
+
+.but-style-one {
+    background-color: #222222;
+    color: #F5F5F5;
+    border-radius: 100em;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border: 1px solid #222222;
+    box-shadow: 0 0 0 0 #222222;
+}
+
+.but-style-one:hover {
+    background-color: #F5F5F5;
+    color: #222222;
+    transform: translateY(-4px) translateX(-2px);
+    box-shadow: 2px 5px 0 0 #222222;
+}
+
+.but-style-one:active {
+    transform: translateY(2px) translateX(1px);
+    box-shadow: 0 0 0 0 #222222
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid #222222;
+}
+
+.name-font{
+    font-family: 'Italianno', cursive;
+}
